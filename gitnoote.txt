@@ -1,0 +1,53 @@
+1. What is Git?
+Git is a tool used for source code management. It is a free and open-source version control system used to handle small to very large projects efficiently. Git is used to tracking changes in the source code, enabling multiple developers to work together on non-linear development.
+Version control, also known as source control, is the practice of tracking and managing changes to software code. Version control systems are software tools that help software teams manage changes to source code over time.The features of Git :
+a.Tracks history.
+b.Free and open source.
+c.Supports non-linear development.
+d.Creates backups.
+e.Scalable.
+f.Supports collaboration.
+
+2.Git terminal commands
+git config-used to initially configure the user.
+git init  -turns a directory into an empty Git repository. 
+git add   -to add files in the to the staging area for Git.
+git clone -to copy and download the repository.
+git commit -Record the changes made to the files to a local repository. 
+git status - Returns the current state of the repository.
+git push  -pushes the committed file changes from the local repository to the remote repository so others can use them.
+git pull  -used to update your repository with new changes.
+
+3.Github:
+GitHub is an online software development platform. It's used for storing, tracking, and collaborating on software projects.
+-It is fast,free and open source.
+-Track changes in code across version.
+-It is a repository.
+-Provides good backup and support.
+ 
+ Gitlab:
+GitLab is a web-based Git repository that provides free open and private repositories, issue-following capabilities, and wikis. 
+-Fast forward merges and squashed merges.
+-Integration and analytics on API and management of everyday activities.
+-Provides greater control over data security, customization.
+
+Bitbucket:
+BitBucket is a cloud-based service that helps developers store and manage their code, as well as track and control the changes to their code. 
+-Not an open source.
+-Pull requests with code review and comments.
+-Bitbucket Pipelines, a continuous delivery service.
+
+4.Industrial practices of Git:
+-Obtain feedback through code reviews.
+-Write descriptive commit messages.
+-Make incremental,small changes.
+
+5.Clone a repo to local
+Open a Terminal or Command Prompt-> Navigate to the Desired Directory -> Clone the Repository using ’’git clone’’command -> Verify the Clone.
+
+6. Resources used:
+-Github docs
+-Chatgpt
+-Git SCM
+-GitKraken
+ 
